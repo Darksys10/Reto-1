@@ -55,8 +55,65 @@
     border: 1rem;
 }
 
-.imagenes{
+.imagenes_1{
     display: flex;
     justify-content: space-around;
     border-radius: 8px;
+}
+
+.lista_servicios_1{
+    font-size: 20px;
+}
+
+.imagenes_2{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+}
+
+.lista_servicios_2{
+    font-size: 20px;
+}
+
+.imagenes_3{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+}
+
+.lista_servicios_3{
+    font-size: 20px;
+
+}
+
+.caja{
+    width: 1339px;
+    height: 88px;
+    left: 38px;
+    top: 2195px;
+}
+
+.detalle{
+    box-sizing: border-box;
+    width: 1339px;
+    height: 214px;
+    left: 38px;
+    top: 2323px;
+    border: 1px solid #000000;
+}
+
+.boton{
+    background-color: #e6d118;
+}
+
+footer {
+    background: #00AF1C;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 10px; 
+    color: white;
+    font-size: 25px;
 }
